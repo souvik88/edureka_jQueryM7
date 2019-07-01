@@ -1,5 +1,5 @@
 Assignment
 
-Build jQuery Mobile Form, with most used input type and fields.
+Build jQuery Mobile Form, with most used input type and fields. (done)
 
-Develop jQuery Mobile Slide Navigation, likeNative mobile slide navigation
+Develop jQuery Mobile Slide Navigation, like Native mobile slide navigation. 
